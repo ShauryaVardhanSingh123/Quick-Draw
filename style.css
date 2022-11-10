@@ -13,3 +13,7 @@ background-color: dodgerblue;
 #SketchToBeDrawn{
     color: navy;
 }
+
+canvas{
+    background-color: white;
+}
